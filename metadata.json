@@ -1,0 +1,6 @@
+{
+  "name": "Streamline",
+  "description": "A lightweight interactive tool called Streamline for organizing workflows by adding boxes, configuring nested priority levels, and linking them with custom connection lines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
